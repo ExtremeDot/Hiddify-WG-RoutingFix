@@ -1,7 +1,12 @@
 # Hiddify-WG-RoutingFix
+# فیکس کردن مسیر آدرس دهی های وایرگارد به سرور هیدیفای
 
 
 ### How to Doanload and Run?
+
+### چجوری اسکریپت رو اجرا کنم؟
+دستور زیر را کپی و در ترمینال اجرا کنید.
+
 ```
 curl -O https://raw.githubusercontent.com/ExtremeDot/Hiddify-WG-RoutingFix/master/hiddify-wg-routing-fix.sh
 
@@ -13,6 +18,7 @@ chmod +x hiddify-wg-routing-fix.sh
 
 <img width="447" height="297" alt="image" src="https://github.com/user-attachments/assets/0f007659-8eb1-4fbf-b820-968e3367d793" />
 
+### مراحل را یک به یک از منوی 1 الی 8 اجرا کنید و سپس سرور را ریستارت کنید.
 
 ### Fix WireGuard Server Routing Problem on Hiddify Manager
 
