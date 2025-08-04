@@ -1,4 +1,16 @@
 # Hiddify-WG-RoutingFix
+
+
+### How to Doanload and Run?
+```
+curl -O https://raw.githubusercontent.com/ExtremeDot/Hiddify-WG-RoutingFix/master/hiddify-wg-routing-fix.sh
+
+chmod +x hiddify-wg-routing-fix.sh
+
+./hiddify-wg-routing-fix.sh
+```
+
+
 <img width="447" height="297" alt="image" src="https://github.com/user-attachments/assets/0f007659-8eb1-4fbf-b820-968e3367d793" />
 
 
