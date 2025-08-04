@@ -1,5 +1,7 @@
+
 # Hiddify-WG-RoutingFix
 # فیکس کردن مسیر آدرس دهی های وایرگارد به سرور هیدیفای
+<img width="873" height="894" alt="image" src="https://github.com/user-attachments/assets/373a3ba9-0e87-4919-86ca-a2c84fa9b855" />
 
 
 ### How to Doanload and Run?
