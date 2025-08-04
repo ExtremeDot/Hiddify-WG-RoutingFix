@@ -28,3 +28,12 @@ Choose an option:
 <img width="636" height="772" alt="image" src="https://github.com/user-attachments/assets/499ddf5c-d6ca-43e0-944a-2ca8cc6837f0" />
 
 
+نام پیشفرض رو با ifconfig ببینید.
+
+```
+apt install net-tools
+```
+
+```
+ifconfig
+```
